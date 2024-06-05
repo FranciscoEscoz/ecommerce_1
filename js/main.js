@@ -87,7 +87,7 @@ function init_carrito() {
     // Recorrer todo el array, objeto por objeto
     for (const producto of productos) {
         if (vector[producto.numero] > 0) {
-            addCard_carrito(producto.numero, producto.valor, producto.imagen, producto.descripcion);
+            addCard_carrito(producto.numero, producto.valor, producto.descripcion, producto.imagen);
         }
 
     }
