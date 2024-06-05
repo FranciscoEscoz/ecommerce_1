@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 17,
+    "PRECIO": 19.99,
+    "DESCRIPCION": "Producto 1",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 18,
+    "PRECIO": 29.99,
+    "DESCRIPCION": "Producto 2",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 19,
+    "PRECIO": 39.99,
+    "DESCRIPCION": "Producto 3",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 20,
+    "PRECIO": 49.99,
+    "DESCRIPCION": "Producto 4",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 21,
+    "PRECIO": 59.99,
+    "DESCRIPCION": "Producto 5",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 22,
+    "PRECIO": 69.99,
+    "DESCRIPCION": "Producto 6",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 23,
+    "PRECIO": 79.99,
+    "DESCRIPCION": "Producto 7",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 24,
+    "PRECIO": 89.99,
+    "DESCRIPCION": "Producto 8",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 25,
+    "PRECIO": 99.99,
+    "DESCRIPCION": "Producto 9",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  },
+  {
+    "ID": 26,
+    "PRECIO": 109.99,
+    "DESCRIPCION": "Producto 10",
+    "IMAGEN": {
+      "type": "Buffer",
+      "data": []
+    }
+  }
+]
