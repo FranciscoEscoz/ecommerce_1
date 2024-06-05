@@ -37,7 +37,7 @@ fetch(url)
     .then(objeto => {
         for(let i=0; i<objeto.length;i++){
             console.log(objeto[i]); // Esto imprimirá el segundo producto
-            addCard(objeto[i].ID, objeto[i].PRECIO, objeto[i].DESCRIPCION, "../assets/lannister.png");
+            addCard(objeto[i].ID, objeto[i].PRECIO, objeto[i].DESCRIPCION, "assets/lannister.png");
         }
         console.log(objeto); // Esto imprimirá todos los productos objeto[i].IMAGEN
     })
